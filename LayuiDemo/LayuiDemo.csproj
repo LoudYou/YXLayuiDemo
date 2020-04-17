@@ -220,6 +220,7 @@
     <Content Include="scripts\layui\lay\modules\tree.js" />
     <Content Include="scripts\layui\lay\modules\upload.js" />
     <Content Include="scripts\layui\lay\modules\util.js" />
+    <Content Include="TestGitConnect.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
